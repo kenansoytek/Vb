@@ -1,0 +1,12 @@
+Veri toplama ve veri Analizi özellikle ilgilendiğim 
+alanların başında geliyor özellikle sizde benim gibi kitap okumayı ve
+araştırma yapmayı seviyorsanız.
+
+Veri Toplama da önemli olan verilerin açık kaynaklı olup olmadığı yani
+kullanmamız için izin verilmiş olması.Eğer izin verilmeyen bir dataset
+kullanmışsak bunun hukuki sonuçları olabilir.
+
+Veri Analizi çok emek isteyen bir alan sürekli aktif okuma yapmamız gerekiyor
+ve içerdiği verileri düzenlemek sabır isteyen bir iş Özellikle bu alanı
+sevmemin sebebi serbest bir şekilde kodlama ve araştırmayı aynı anda 
+yapabiliyor olmam.
